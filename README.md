@@ -1,4 +1,4 @@
-## Hi, I'm Keven Ni
+## Hi, I'm Keven
 
 - Computer Science & Data Science @ NYU  
 - Passionate about Machine Learning, NLP, and Full-Stack Development  
@@ -6,7 +6,7 @@
 
 ### What I’ve Worked On
 
-- AI & NLP → Built evaluation pipelines for large language models
+- AI & NLP → Built LLM pipelines
 
 - Applied ML Research → Studied how social media sentiment shapes public opinion
 
