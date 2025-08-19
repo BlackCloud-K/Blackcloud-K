@@ -19,7 +19,7 @@
 
 - Always curious about the intersection of data, language, and human decision-making
   
-![Keven's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackCloud-K&show_icons=true&theme=tokyonight$hide_rank=true)
+![Keven's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackCloud-K&show_icons=true&theme=tokyonight&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCloud-K&layout=compact&theme=tokyonight)
 
 <!--
