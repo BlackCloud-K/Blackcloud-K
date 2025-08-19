@@ -1,9 +1,24 @@
-## Hi there 👋
+## Hi, I'm Keven Ni
 
-### 📊 GitHub Stats
-![Keven's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackCloud-K&show_icons=true&theme=tokyonight)
+Computer Science & Data Science @ NYU
+Passionate about Machine Learning, NLP, and Full-Stack Development
+Experienced in building LLM evaluation systems, NLP pipelines, and web applications
 
-### 🔥 Most Used Languages
+### What I’ve Worked On
+
+AI & NLP → Built evaluation pipelines for large language models
+
+Applied ML Research → Studied how social media sentiment shapes public opinion
+
+Full-Stack Projects → Developed fitness tracking and academic advising web apps (Flask, JS, MongoDB, GCP)
+
+
+### Currently
+
+Exploring RAG pipelines, prompt engineering, and AI for creative applications
+
+Always curious about the intersection of data, language, and human decision-making
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCloud-K&layout=compact&theme=tokyonight)
 
 <!--
