@@ -1,23 +1,23 @@
 ## Hi, I'm Keven Ni
 
-Computer Science & Data Science @ NYU
-Passionate about Machine Learning, NLP, and Full-Stack Development
-Experienced in building LLM evaluation systems, NLP pipelines, and web applications
+- Computer Science & Data Science @ NYU  
+- Passionate about Machine Learning, NLP, and Full-Stack Development  
+- Experienced in building LLM evaluation systems, NLP pipelines, and web applications  
 
 ### What I’ve Worked On
 
-AI & NLP → Built evaluation pipelines for large language models
+- AI & NLP → Built evaluation pipelines for large language models
 
-Applied ML Research → Studied how social media sentiment shapes public opinion
+- Applied ML Research → Studied how social media sentiment shapes public opinion
 
-Full-Stack Projects → Developed fitness tracking and academic advising web apps (Flask, JS, MongoDB, GCP)
+- Full-Stack Projects → Developed fitness tracking and academic advising web apps (Flask, JS, MongoDB, GCP)
 
 
 ### Currently
 
-Exploring RAG pipelines, prompt engineering, and AI for creative applications
+- Exploring RAG pipelines, prompt engineering, and AI for creative applications
 
-Always curious about the intersection of data, language, and human decision-making
+- Always curious about the intersection of data, language, and human decision-making
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCloud-K&layout=compact&theme=tokyonight)
 
