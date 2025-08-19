@@ -18,7 +18,8 @@
 - Exploring RAG pipelines, prompt engineering, and AI for creative applications
 
 - Always curious about the intersection of data, language, and human decision-making
-
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackCloud-K&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCloud-K&layout=compact&theme=tokyonight)
 
 <!--
