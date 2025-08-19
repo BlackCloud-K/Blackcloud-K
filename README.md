@@ -1,5 +1,11 @@
 ## Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blackcloud-K&layout=compact)
+
+### 📊 GitHub Stats
+![Keven's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackCloud-K&show_icons=true&theme=tokyonight)
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCloud-K&layout=compact&theme=tokyonight)
+
 <!--
 **BlackCloud-K/Blackcloud-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
