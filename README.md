@@ -13,11 +13,20 @@
 - Exploring **RAG pipelines**, **prompt engineering**, and **AI × creativity**
 - Curious about the intersection of **data, language, and decision‑making**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BlackCloud-K&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCloud-K&layout=compact&theme=tokyonight&card_width=360" height="170"/>
-</p>
+### 📊 GitHub Stats & Languages
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=BlackCloud-K&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true" 
+    height="170"
+    alt="Keven's GitHub stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCloud-K&layout=compact&theme=tokyonight&card_width=360" 
+    height="170"
+    alt="Top languages"
+  />
+</p>
 
 
 <!--
