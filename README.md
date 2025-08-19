@@ -13,8 +13,6 @@
 - Exploring **RAG pipelines**, **prompt engineering**, and **AI × creativity**
 - Curious about the intersection of **data, language, and decision‑making**
 
----
-
 <table>
   <tr>
     <td>
