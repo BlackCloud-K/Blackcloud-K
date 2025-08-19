@@ -2,7 +2,7 @@
 
 - Computer Science & Data Science @ **NYU**
 - Passionate about **Machine Learning, NLP, and Full‑Stack Development**
-- Built **LLM evaluation systems**, **NLP pipelines**, and **web applications**
+
 
 ### 🧩 What I’ve Worked On
 - **AI & NLP** — LLM pipelines & evaluation
