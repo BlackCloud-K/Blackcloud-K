@@ -13,24 +13,12 @@
 - Exploring **RAG pipelines**, **prompt engineering**, and **AI × creativity**
 - Curious about the intersection of **data, language, and decision‑making**
 
-<table>
-  <tr>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=BlackCloud-K&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true&custom_title=BlackCloud-K%27s%20GitHub%20Stats&v=2"
-        alt="Keven's GitHub stats"
-        height="170"
-      />
-    </td>
-    <td>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCloud-K&layout=compact&theme=tokyonight&card_width=360&v=2"
-        alt="Top languages"
-        height="170"
-      />
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Stats
+![Keven's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackCloud-K&show_icons=true&theme=tokyonight&hide_rank=true&include_all_commits=true)
+
+### 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCloud-K&layout=compact&theme=tokyonight&card_width=360)
+
 
 <!--
 **BlackCloud-K/Blackcloud-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
