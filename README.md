@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Blackcloud-K&repo=github-readme-stats)](https://github.com/Blackcloud-K/github-readme-stats)
 <!--
 **BlackCloud-K/Blackcloud-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
