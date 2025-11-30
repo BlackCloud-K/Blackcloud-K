@@ -4,16 +4,16 @@
 - Passionate about **Machine Learning, NLP, and Full‑Stack Development**
 
 
-### 🧩 What I’ve Worked On
+### What I’ve Worked On
 - **AI & NLP** — LLM pipelines & evaluation
 - **Applied ML Research** — Social media sentiment → public opinion
 - **Full‑Stack** — Fitness tracking & academic advising apps (Flask, JS, MongoDB, GCP)
 
-### 🌱 Currently
+### Currently
 - Exploring **RAG pipelines**, **prompt engineering**, and **AI × creativity**
 - Curious about the intersection of **data, language, and decision‑making**
 
-### 📊 GitHub Stats & Languages
+### GitHub Stats & Languages
 
 <p align="center">
   <img 
